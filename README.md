@@ -19,5 +19,5 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## LINK
 
-<a href="https://github.com/Rfm291/Portfolio">Portfolio Repo<a>
-<a href="https://rfm291.github.io/Portfolio/">Portfolio<a>
+<li><a href="https://github.com/Rfm291/Portfolio">Portfolio Repo<a></li>
+<li><a href="https://rfm291.github.io/Portfolio/">Portfolio<a></li>
