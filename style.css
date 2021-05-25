@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    
   }
   
   /* brand color palette */
@@ -239,7 +240,7 @@
   }
   
   .butcher-bar {
-    background-image: url("https://infatuation.imgix.net/media/images/reviews/butcher-bar/banners/1519140574.68.jpg?auto=format&h=840&w=1336");
+    background-image: url("/Users/RichardFM/Developement/Portfolio/Assets/Screen Shot 2021-05-24 at 8.04.17 PM.png");
     background-position: 0%;
   }
   
