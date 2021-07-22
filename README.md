@@ -1,23 +1,16 @@
-# Unit 08 Project 1 Homework: Professional Materials
+# Portfolio
 
-Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.
+Recent and current work that I have been doing for the past couple months while learning web and software developement in Columbia's Engineering Boot Camp. 
 
-If you are opting out of career services, this is _still a required assignment_. Part of being a web developer means being a part of a community. Having a place to share your projects is _necessary_ if you're applying for jobs, but it's also _critical_ on your journey as a developer.
+## Recent Work
 
-## Requirements
+* Project 2 (Collaborator): Bismuth Bodega App - an online server for a bodega owner to have access to live inventory as well as a virtual convenience store for users to purchase before picking up or getting items delivered.
 
-* Submit an updated portfolio featuring Project 1 and two exemplary homework assignments.
-
-* Submit an updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
-
-* Submit an updated resume
-
-* Submit an updated LinkedIn profile
+* Project 1 (Collaborator): Meme.Me - a website for users to instantly view memes that mirror current mood.
 
 ## LINK
 
 <li><a href="https://github.com/Rfm291/Portfolio">Portfolio Repo<a></li>
 <li><a href="https://rfm291.github.io/Portfolio/">Portfolio<a></li>
+<li><a href="https://img.freepik.com/free-vector/high-tech-technology-geometric-background_29971-434.jpg?size=626&ext=jpg">Banner Logo<a></li>
 
-- - -
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
